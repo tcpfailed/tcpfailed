@@ -76,8 +76,6 @@ SHADCN***
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-FF7F00?style=flat-square\&logo=gnu\&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=flat-square\&logo=terraform\&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square\&logo=ansible\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat-square\&logo=vagrant\&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square\&logo=anaconda\&logoColor=white)
