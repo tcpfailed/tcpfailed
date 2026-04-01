@@ -81,6 +81,53 @@ SHADCN***
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square)
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=linode&logoColor=white)
+
+![libpcap](https://img.shields.io/badge/libpcap-000000?style=flat-square)
+![WinPcap](https://img.shields.io/badge/WinPcap-00599C?style=flat-square)
+![Npcap](https://img.shields.io/badge/Npcap-0078D4?style=flat-square)
+
+![btop](https://img.shields.io/badge/btop-2E3440?style=flat-square)
+![nload](https://img.shields.io/badge/nload-000000?style=flat-square)
+![iftop](https://img.shields.io/badge/iftop-003366?style=flat-square)
+![iptraf-ng](https://img.shields.io/badge/iptraf--ng-005F87?style=flat-square)
+![glances](https://img.shields.io/badge/glances-00A86B?style=flat-square)
+![bashtop](https://img.shields.io/badge/bashtop-1E1E1E?style=flat-square)
+
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+
+![Cowrie](https://img.shields.io/badge/Cowrie_Honeypot-222222?style=flat-square)
+![Dionaea](https://img.shields.io/badge/Dionaea_Honeypot-444444?style=flat-square)
+![Honeyd](https://img.shields.io/badge/Honeyd-666666?style=flat-square)
+![OpenCanary](https://img.shields.io/badge/OpenCanary-000000?style=flat-square)
+
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-CC0000?style=flat-square)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square)
+![Snort](https://img.shields.io/badge/Snort-FB0000?style=flat-square)
+
+
+![ufw](https://img.shields.io/badge/ufw-333333?style=flat-square)
+![iptables](https://img.shields.io/badge/iptables-CC0000?style=flat-square)
+![nftables](https://img.shields.io/badge/nftables-009639?style=flat-square)
+
+![eBPF](https://img.shields.io/badge/eBPF-FF6F00?style=flat-square)
+![XDP](https://img.shields.io/badge/XDP-000000?style=flat-square)
+![bcc](https://img.shields.io/badge/bcc-4B8BBE?style=flat-square)
+![bpftool](https://img.shields.io/badge/bpftool-555555?style=flat-square)
+
+![iproute2](https://img.shields.io/badge/iproute2-1F6FEB?style=flat-square)
+![ss](https://img.shields.io/badge/ss-444444?style=flat-square)
+![tc](https://img.shields.io/badge/tc-222222?style=flat-square)
+
 ---
 
 ### Contact
