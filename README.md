@@ -63,6 +63,16 @@ SHADCN***
 ![Cosmic Guard](https://img.shields.io/badge/Cosmic%20Guard-6A0DAD?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![NetLimiter](https://img.shields.io/badge/NetLimiter-CC0000?style=flat-square)
+![MobaXterm](https://img.shields.io/badge/MobaXterm-FF6600?style=flat-square)
+![PuTTY](https://img.shields.io/badge/PuTTY-003B57?style=flat-square)
+![OpenSSH](https://img.shields.io/badge/OpenSSH-000000?style=flat-square)
+![nmap](https://img.shields.io/badge/nmap-214478?style=flat-square)
+![tcpdump](https://img.shields.io/badge/tcpdump-000000?style=flat-square)
+![Netcat](https://img.shields.io/badge/Netcat-444444?style=flat-square)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square)
+![htop](https://img.shields.io/badge/htop-009688?style=flat-square)
 
 ---
 
