@@ -79,7 +79,6 @@ SHADCN***
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square)
 
 ---
