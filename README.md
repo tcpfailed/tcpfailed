@@ -1,6 +1,8 @@
 # tcpfailed
 
-Welcome to my GitHub profile!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tcpfailed/tcpfailed/refs/heads/main/assets/welcome.png" alt="Welcome to my GitHub Profile" />
+</div>
 
 ## About Me
 
