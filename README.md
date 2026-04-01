@@ -42,6 +42,7 @@ SHADCN***
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square\&logo=visual-studio\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square\&logo=npm\&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square\&logo=bun\&logoColor=white)
