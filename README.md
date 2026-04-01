@@ -73,6 +73,7 @@ SHADCN***
 ![Netcat](https://img.shields.io/badge/Netcat-444444?style=flat-square)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square)
 ![htop](https://img.shields.io/badge/htop-009688?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
