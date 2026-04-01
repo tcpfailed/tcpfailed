@@ -59,6 +59,8 @@ SHADCN***
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Tabnine](https://img.shields.io/badge/Tabnine-2F72BC?style=flat-square&logo=tabnine&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8DD6F9?style=flat-square&logo=github&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=flat-square&logo=powershell&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-4B8BBE?style=flat-square&logo=windows&logoColor=white)
 
 ###### Frameworks & Libraries
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
