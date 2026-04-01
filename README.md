@@ -71,9 +71,7 @@ SHADCN***
 ![Data Forest](https://img.shields.io/badge/Data%20Forest-228B22?style=flat-square)
 ![Cosmic Guard](https://img.shields.io/badge/Cosmic%20Guard-6A0DAD?style=flat-square)
 
----
-
-### Network & Other
+###### Network & Other
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
