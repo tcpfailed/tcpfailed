@@ -89,7 +89,6 @@ SHADCN***
 ![Netcat](https://img.shields.io/badge/Netcat-444444?style=flat-square)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat-square)
 ![Htop](https://img.shields.io/badge/Htop-009688?style=flat-square)
-
 ![Libpcap](https://img.shields.io/badge/Libpcap-000000?style=flat-square)
 ![WinPcap](https://img.shields.io/badge/WinPcap-00599C?style=flat-square)
 ![Npcap](https://img.shields.io/badge/Npcap-0078D4?style=flat-square)
@@ -99,19 +98,16 @@ SHADCN***
 ![Iptraf-ng](https://img.shields.io/badge/Iptraf--ng-005F87?style=flat-square)
 ![Glances](https://img.shields.io/badge/Glances-00A86B?style=flat-square)
 ![Bashtop](https://img.shields.io/badge/Bashtop-1E1E1E?style=flat-square)
-
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
-
 ![Cowrie](https://img.shields.io/badge/Cowrie_Honeypot-222222?style=flat-square)
 ![Dionaea](https://img.shields.io/badge/Dionaea_Honeypot-444444?style=flat-square)
 ![Honeyd](https://img.shields.io/badge/Honeyd-666666?style=flat-square)
 ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-CC0000?style=flat-square)
 ![Snort](https://img.shields.io/badge/Snort-FB0000?style=flat-square)
-
 ![Ufw](https://img.shields.io/badge/Ufw-333333?style=flat-square)
 ![Iptables](https://img.shields.io/badge/Iptables-CC0000?style=flat-square)
 ![Nftables](https://img.shields.io/badge/Nftables-009639?style=flat-square)
