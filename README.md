@@ -72,7 +72,7 @@ SHADCN***
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat)
 
 ---
 
