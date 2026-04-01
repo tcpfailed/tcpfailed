@@ -77,6 +77,10 @@ SHADCN***
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square)
 ![htop](https://img.shields.io/badge/htop-009688?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square)
 
 ---
 
