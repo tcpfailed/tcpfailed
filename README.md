@@ -130,8 +130,6 @@ SHADCN***
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8DD6F9?style=flat-square&logo=github&logoColor=white)
 ![Tabnine](https://img.shields.io/badge/Tabnine-2F72BC?style=flat-square&logo=tabnine&logoColor=white)
-![Kite](https://img.shields.io/badge/Kite-02B3E4?style=flat-square&logo=kite&logoColor=white)
-![MutableAI](https://img.shields.io/badge/MutableAI-FF6600?style=flat-square)
 
 ---
 
