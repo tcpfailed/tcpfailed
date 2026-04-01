@@ -168,4 +168,4 @@ GO***
 
 ---
 
-###### ⭐️ Feel free to check out my repositories and 
+###### Feel free to check out my repositories and ⭐️ them 
