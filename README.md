@@ -58,9 +58,7 @@ SHADCN***
 ![Tabnine](https://img.shields.io/badge/Tabnine-2F72BC?style=flat-square&logo=tabnine&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8DD6F9?style=flat-square&logo=github&logoColor=white)
 
----
-
-### Frameworks & Libraries
+###### Frameworks & Libraries
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
