@@ -57,6 +57,10 @@ SHADCN***
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Data Forest](https://img.shields.io/badge/Data%20Forest-228B22?style=flat-square)
+![OVH](https://img.shields.io/badge/OVH-123F6D?style=flat-square&logo=ovh&logoColor=white)
+![Cosmic Guard](https://img.shields.io/badge/Cosmic%20Guard-6A0DAD?style=flat-square)
 
 ---
 
