@@ -171,6 +171,6 @@ GO***
 ---
 
 <div align="center">
-  <h3>✨ Thank you for visiting!</h3>
+  <h3>Thank you for visiting!</h3>
   <p><strong>Feel free to check out my repositories and ⭐️ them</strong> if you find them useful!</p>
 </div>
