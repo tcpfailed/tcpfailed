@@ -71,7 +71,7 @@ SHADCN***
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-FF6600?style=flat-square)
 ![PuTTY](https://img.shields.io/badge/PuTTY-003B57?style=flat-square)
 ![OpenSSH](https://img.shields.io/badge/OpenSSH-000000?style=flat-square)
-![Nmap](https://img.shields.io/badge/nmap-214478?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
 ![Tcpdump](https://img.shields.io/badge/tcpdump-000000?style=flat-square)
 ![Netcat](https://img.shields.io/badge/Netcat-444444?style=flat-square)
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square)
