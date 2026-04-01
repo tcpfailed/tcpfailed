@@ -85,8 +85,6 @@ GO***
 ![Glances](https://img.shields.io/badge/Glances-00A86B?style=flat-square)
 ![Bashtop](https://img.shields.io/badge/Bashtop-1E1E1E?style=flat-square)
 
----
-
 ###### Frameworks & Libraries
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -114,9 +112,7 @@ GO***
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
----
-
-### Network & Other
+###### Network & Other
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square\&logo=apache\&logoColor=white)
