@@ -23,7 +23,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 <div align="center">
   
-#### Dev Stack
+###### Dev Stack
 
 </div>
 
