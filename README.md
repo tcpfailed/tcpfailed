@@ -47,8 +47,6 @@ GO***
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8DD6F9?style=flat-square\&logo=github\&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-FF7F00?style=flat-square\&logo=gnu\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=flat-square\&logo=terraform\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat-square)
 ![Glances](https://img.shields.io/badge/Glances-00A86B?style=flat-square)
 ![Bashtop](https://img.shields.io/badge/Bashtop-1E1E1E?style=flat-square)
