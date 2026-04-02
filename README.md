@@ -36,7 +36,7 @@ GO***
 
 ---
 ### Dev Stack
-![SKILLS](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,gitlab,nodejs,npm,bun,docker,linux,windows,powershell,cloudflare,aws,gcp,azure,vercel,postman,firebase,supabase,githubactions,nginx,postgres,mongodb,mysql,terraform,kubernetes,anaconda,blank,blank&theme=dark)
+![STACK](https://skillicons.dev/icons?i=visualstudio,vscode,bsd,git,github,gitlab,nodejs,npm,bun,docker,linux,windows,powershell,cloudflare,aws,gcp,azure,vercel,postman,firebase,supabase,githubactions,nginx,postgres,mongodb,mysql,terraform,kubernetes,anaconda,blank,blank&theme=dark)
 ![WSL](https://img.shields.io/badge/WSL-4B8BBE?style=flat-square\&logo=windows\&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-123F6D?style=flat-square\&logo=ovh\&logoColor=white)
 ![DDoS-Guard](https://img.shields.io/badge/DDoSGuard-0066CC?style=flat-square\&logo=shield\&logoColor=white)
@@ -56,7 +56,7 @@ GO***
 ![Bashtop](https://img.shields.io/badge/Bashtop-1E1E1E?style=flat-square)
 
 ###### Frameworks & Libraries
-![SKILLS](https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,expressjs,django,flask,fastapi,laravel,dotnet,qt,prisma,blank,blank&theme=dark)
+![FRAMEWORKS](https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,expressjs,django,flask,fastapi,laravel,dotnet,qt,prisma,blank,blank&theme=dark)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
@@ -66,14 +66,7 @@ GO***
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
 ###### Network & Other
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square\&logo=apache\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
+![NETWORK](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch&theme=dark)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white)
 ![NetLimiter](https://img.shields.io/badge/NetLimiter-CC0000?style=flat-square)
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-FF6600?style=flat-square)
@@ -89,10 +82,7 @@ GO***
 ![Iftop](https://img.shields.io/badge/Iftop-003366?style=flat-square)
 ![Iptraf-ng](https://img.shields.io/badge/Iptraf--ng-005F87?style=flat-square)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square\&logo=zabbix\&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white)
 ![Grafana Loki](https://img.shields.io/badge/Grafana_Loki-FF7F00?style=flat-square)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square\&logo=elasticsearch\&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square\&logo=logstash\&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square\&logo=kibana\&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square\&logo=openvpn\&logoColor=white)
