@@ -66,7 +66,7 @@ GO***
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
 ###### Network & Other
-![NETWORK](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch&theme=dark)
+![NETWORK](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank,&theme=dark)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white)
 ![NetLimiter](https://img.shields.io/badge/NetLimiter-CC0000?style=flat-square)
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-FF6600?style=flat-square)
