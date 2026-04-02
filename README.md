@@ -13,9 +13,10 @@ I enjoy working on projects that challenge me and help me grow as a developer.
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,php,c,cs,cpp,mysql,go&theme=dark" />
   </a>
 </p>
-
+<div align="center">
 ***HTML5 CSS3 PYTHON JAVASCRIPT TYPESCRIPT TSX PHP C# C++ SQL GO***
 
+</div>
 ---
 
 ### Dev Stack
