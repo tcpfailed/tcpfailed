@@ -36,7 +36,7 @@ GO***
 
 ---
 ### Dev Stack
-![SKILLS](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,gitlab,nodejs,npm,bun,docker,linux,windows,powershell,cloudflare,aws,gwp,azure&theme=dark)
+![SKILLS](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,gitlab,nodejs,npm,bun,docker,linux,windows,powershell,cloudflare,aws,gwp,azure,vercel,postman,firebase,supabase,githubactions&theme=dark)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square\&logo=visualstudio\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square\&logo=vscode\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
