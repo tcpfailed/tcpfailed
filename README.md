@@ -18,7 +18,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 ### Dev Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vscodium,git,github,gitlab,nodejs,npm,bun,docker,linux,bsd,windows,powershell,cloudflare,aws,gcp,azure,vercel,postman,firebase,supabase,githubactions,nginx,apache,postgres,mongodb,mysql,terraform,kubernetes,vagrant,anaconda&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vscodium,git,github,gitlab,nodejs,npm,bun,docker,linux,bsd,windows,powershell,cloudflare,aws,gcp,azure,vercel,postman,firebase,supabase,githubactions,nginx,apache,postgres,mongodb,mysql,terraform,kubernetes,vagrant,anaconda&theme=dark" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 ###### Network & Other
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nginx,apache,postgresql,mongodb,mysql,prometheus,grafana,elasticsearch,openvpn,wireguard,wireshark,nmap&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nginx,apache,postgresql,mongodb,mysql,prometheus,grafana,elasticsearch,openvpn,wireguard,wireshark,nmap&theme=dark" />
   </a>
 </p>
 
