@@ -68,7 +68,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 ###### Network & Other
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blank,blank,blank,grafana,prometheus,elasticsearch,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=blank,blank,blank,blank,blank,blank,grafana,prometheus,elasticsearch,blank,blank,blank,blank,blank,blank&theme=dark" />
   </a>
 </p>
 
