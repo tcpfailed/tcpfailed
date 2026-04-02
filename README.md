@@ -55,7 +55,6 @@ GO***
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=google-cloud\&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoft-azure\&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-123F6D?style=flat-square\&logo=ovh\&logoColor=white)
-![NFO](https://img.shields.io/badge/NFO-FF9900?style=flat-square\&logo=server\&logoColor=white)
 ![DDoS-Guard](https://img.shields.io/badge/DDoSGuard-0066CC?style=flat-square\&logo=shield\&logoColor=white)
 ![FreakHosting](https://img.shields.io/badge/FreakHosting-FF3366?style=flat-square\&logo=server\&logoColor=white)
 ![Data Forest](https://img.shields.io/badge/Data%20Forest-228B22?style=flat-square)
@@ -80,8 +79,6 @@ GO***
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square\&logo=anaconda\&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square\&logo=anaconda\&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat-square)
-![Htop](https://img.shields.io/badge/Htop-009688?style=flat-square)
-![Btop](https://img.shields.io/badge/Btop-2E3440?style=flat-square)
 ![Glances](https://img.shields.io/badge/Glances-00A86B?style=flat-square)
 ![Bashtop](https://img.shields.io/badge/Bashtop-1E1E1E?style=flat-square)
 
