@@ -3,7 +3,8 @@
 </div>
 
 ## About Me
-I enjoy working on projects that challenge me and help me grow as a developer.
+Passionate developer who thrives on challenging projects that push my limits and accelerate my growth. I love creating robust, high performance solutions across web, systems, and networking.
+Currently not many repositories as i dont post on here much, will try to post more often :)
 
 ---
 
