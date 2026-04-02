@@ -14,6 +14,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
   </a>
 </p>
 <div align="center">
+  
 ***HTML5 CSS3 PYTHON JAVASCRIPT TYPESCRIPT TSX PHP C# C++ SQL GO***
 
 </div>
