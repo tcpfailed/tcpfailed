@@ -25,7 +25,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 ###### Frameworks & Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,framer,threejs,trpc,express,django,flask,fastapi,laravel,dotnet,prisma,qt&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,framer,threejs,trpc,express,django,flask,fastapi,laravel,dotnet,prisma,qt&theme=dark" />
   </a>
 </p>
 
