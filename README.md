@@ -55,7 +55,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
   
 ###### Frameworks & Libraries
 
-</div?
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
