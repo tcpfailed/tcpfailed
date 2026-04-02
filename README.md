@@ -37,18 +37,6 @@ GO***
 ---
 ### Dev Stack
 ![SKILLS](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,gitlab,nodejs,npm,bun,docker,linux,windows,powershell,wsl,cloudflare,aws,gcp,azure,vercel,postman,firebase,supabase,githubactions,nginx,apache,postgres,mongodb,mysql,terraform,kubernetes,vagrant,anaconda,tmux,bashtop,glances&theme=dark)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square\&logo=visualstudio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square\&logo=vscode\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Npm](https://img.shields.io/badge/Npm-CB3837?style=flat-square\&logo=npm\&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square\&logo=bun\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square\&logo=windows\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=flat-square\&logo=powershell\&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-4B8BBE?style=flat-square\&logo=windows\&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=server\&logoColor=white)
