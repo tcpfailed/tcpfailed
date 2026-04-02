@@ -25,7 +25,11 @@ GO***
 
 ---
 ### Dev Stack
-![STACK](https://skillicons.dev/icons?i=visualstudio,vscode,bsd,git,github,gitlab,nodejs,npm,bun,docker,linux,windows,powershell,cloudflare,aws,gcp,azure,vercel,postman,firebase,supabase,githubactions,nginx,postgres,mongodb,mysql,terraform,kubernetes,anaconda,blank&theme=dark)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,bsd,git,github,gitlab,nodejs,npm,bun,docker,linux,windows,powershell,cloudflare,aws,gcp,azure,vercel,postman,firebase,supabase,githubactions,nginx,postgres,mongodb,mysql,terraform,kubernetes,anaconda,blank&theme=dark" />
+  </a>
+</p>
 ![WSL](https://img.shields.io/badge/WSL-4B8BBE?style=flat-square\&logo=windows\&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-123F6D?style=flat-square\&logo=ovh\&logoColor=white)
 ![DDoS-Guard](https://img.shields.io/badge/DDoSGuard-0066CC?style=flat-square\&logo=shield\&logoColor=white)
