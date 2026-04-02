@@ -7,7 +7,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ---
 
-### Languages
+###### Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,php,c,cs,cpp,mysql,go&theme=dark" />
