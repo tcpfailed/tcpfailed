@@ -36,7 +36,7 @@ GO***
 
 ---
 ### Dev Stack
-![Visual Studio](https://skillicons.dev/icons?i=visualstudio&theme=dark&perline=15")
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio&theme=dark&perline=15)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square\&logo=visualstudio\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square\&logo=vscode\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
