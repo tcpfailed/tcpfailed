@@ -38,10 +38,6 @@ GO***
 ### Dev Stack
 ![SKILLS](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,gitlab,nodejs,npm,bun,docker,linux,windows,powershell,wsl,cloudflare,aws,gcp,azure,vercel,postman,firebase,supabase,githubactions,nginx,apache,postgres,mongodb,mysql,terraform,kubernetes,vagrant,anaconda,tmux,bashtop,glances&theme=dark)
 ![WSL](https://img.shields.io/badge/WSL-4B8BBE?style=flat-square\&logo=windows\&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=server\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=google-cloud\&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoft-azure\&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-123F6D?style=flat-square\&logo=ovh\&logoColor=white)
 ![DDoS-Guard](https://img.shields.io/badge/DDoSGuard-0066CC?style=flat-square\&logo=shield\&logoColor=white)
 ![FreakHosting](https://img.shields.io/badge/FreakHosting-FF3366?style=flat-square\&logo=server\&logoColor=white)
