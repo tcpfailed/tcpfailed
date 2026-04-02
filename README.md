@@ -3,7 +3,6 @@
 </div>
 
 ## About Me
-
 I enjoy working on projects that challenge me and help me grow as a developer.
 
 ---
@@ -14,20 +13,10 @@ I enjoy working on projects that challenge me and help me grow as a developer.
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,php,c,cs,cpp,mysql,go&theme=dark" />
   </a>
 </p>
-
-***HTML5
-CSS3
-PYTHON
-JAVASCRIPT
-TYPESCRIPT
-TSX
-PHP
-C#
-C++
-SQL
-GO***
+***HTML5 CSS3 PYTHON JAVASCRIPT TYPESCRIPT TSX PHP C# C++ SQL GO***
 
 ---
+
 ### Dev Stack
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,7 +24,7 @@ GO***
   </a>
 </p>
 
-<div style="text-align: center;">
+<div align="center">
 
 ![WSL](https://img.shields.io/badge/WSL-4B8BBE?style=flat-square&logo=windows&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-123F6D?style=flat-square&logo=ovh&logoColor=white)
@@ -60,6 +49,8 @@ GO***
   </a>
 </p>
 
+<div align="center">
+
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
@@ -68,6 +59,8 @@ GO***
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
+</div>
+
 ###### Network & Other
 <p align="center">
   <a href="https://skillicons.dev">
@@ -75,7 +68,9 @@ GO***
   </a>
 </p>
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white)
+<div align="center">
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![NetLimiter](https://img.shields.io/badge/NetLimiter-CC0000?style=flat-square)
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-FF6600?style=flat-square)
 ![PuTTY](https://img.shields.io/badge/PuTTY-003B57?style=flat-square)
@@ -89,12 +84,12 @@ GO***
 ![Nload](https://img.shields.io/badge/Nload-000000?style=flat-square)
 ![Iftop](https://img.shields.io/badge/Iftop-003366?style=flat-square)
 ![Iptraf-ng](https://img.shields.io/badge/Iptraf--ng-005F87?style=flat-square)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square\&logo=zabbix\&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![Grafana Loki](https://img.shields.io/badge/Grafana_Loki-FF7F00?style=flat-square)
-![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square\&logo=logstash\&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square\&logo=kibana\&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square\&logo=openvpn\&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square\&logo=wireguard\&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![Cowrie](https://img.shields.io/badge/Cowrie_Honeypot-222222?style=flat-square)
 ![Dionaea](https://img.shields.io/badge/Dionaea_Honeypot-444444?style=flat-square)
 ![Honeyd](https://img.shields.io/badge/Honeyd-666666?style=flat-square)
@@ -110,13 +105,14 @@ GO***
 ![Iproute2](https://img.shields.io/badge/Iproute2-1F6FEB?style=flat-square)
 ![Ss](https://img.shields.io/badge/Ss-444444?style=flat-square)
 
+</div>
+
 ---
 
 ### Contact
-
-* GitHub: *https://github.com/tcpfailed*
-* Discord: *tcpxd*
-* Telegram: *tcpfailed*
+- **GitHub:** https://github.com/tcpfailed
+- **Discord:** tcpxd
+- **Telegram:** tcpfailed
 
 ---
 
