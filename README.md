@@ -7,6 +7,8 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ---
 
+<div align="center">
+  
 ###### Languages
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,6 +16,8 @@ I enjoy working on projects that challenge me and help me grow as a developer.
   </a>
 </p>
 <div align="center">
+
+</div>
   
 ***HTML5 CSS3 PYTHON JAVASCRIPT TYPESCRIPT TSX PHP C# C++ SQL GO***
 
