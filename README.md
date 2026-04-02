@@ -22,7 +22,12 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ###### Frameworks & Libraries
 
-![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn,radix,framer,threejs,trpc,express,django,flask,fastapi,laravel,dotnet,aspnet,gin,qt,prisma,sqlalchemy&perline=8&theme=dark)
+![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,tailwind,framer,threejs,trpc,express,django,flask,fastapi,laravel,dotnet,aspnet,gin,prisma&perline=8&theme=dark)
+
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
 ---
 
