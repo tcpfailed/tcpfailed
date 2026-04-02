@@ -21,7 +21,11 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ---
 
+<div align="center">
 ###### Dev Stack
+
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,bsd,git,github,gitlab,nodejs,npm,bun,docker,linux,windows,powershell,cloudflare,aws,gcp,azure,vercel,postman,firebase,supabase,githubactions,nginx,postgres,mongodb,mysql,terraform,kubernetes,anaconda,blank&theme=dark" />
