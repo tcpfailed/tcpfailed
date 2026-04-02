@@ -68,7 +68,7 @@ Currently not many repositories as i dont post on here much, will try to post mo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,expressjs,django,flask,fastapi,laravel,dotnet,qt,prisma,vue,blank&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,expressjs,django,flask,fastapi,laravel,dotnet,qt,prisma,vue&theme=dark" />
   </a>
 </p>
 
