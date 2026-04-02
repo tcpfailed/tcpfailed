@@ -56,7 +56,7 @@ GO***
 ![Bashtop](https://img.shields.io/badge/Bashtop-1E1E1E?style=flat-square)
 
 ###### Frameworks & Libraries
-![SKILLS](https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,expressjs,django,flask,fastapi,laravel,dotnet,qt,prisma&theme=dark)
+![SKILLS](https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,expressjs,django,flask,fastapi,laravel,dotnet,qt,prisma,blank,blank&theme=dark)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
