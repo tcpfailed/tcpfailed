@@ -45,7 +45,6 @@ GO***
 ![Cosmic Guard](https://img.shields.io/badge/Cosmic%20Guard-6A0DAD?style=flat-square)
 ![Tabnine](https://img.shields.io/badge/Tabnine-2F72BC?style=flat-square\&logo=tabnine\&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8DD6F9?style=flat-square\&logo=github\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-FF7F00?style=flat-square\&logo=gnu\&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=flat-square\&logo=terraform\&logoColor=white)
