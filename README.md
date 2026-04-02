@@ -30,6 +30,7 @@ GO***
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,bsd,git,github,gitlab,nodejs,npm,bun,docker,linux,windows,powershell,cloudflare,aws,gcp,azure,vercel,postman,firebase,supabase,githubactions,nginx,postgres,mongodb,mysql,terraform,kubernetes,anaconda,blank&theme=dark" />
   </a>
 </p>
+
 ![WSL](https://img.shields.io/badge/WSL-4B8BBE?style=flat-square\&logo=windows\&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-123F6D?style=flat-square\&logo=ovh\&logoColor=white)
 ![DDoS-Guard](https://img.shields.io/badge/DDoSGuard-0066CC?style=flat-square\&logo=shield\&logoColor=white)
@@ -45,7 +46,12 @@ GO***
 ![Bashtop](https://img.shields.io/badge/Bashtop-1E1E1E?style=flat-square)
 
 ###### Frameworks & Libraries
-![FRAMEWORKS](https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,expressjs,django,flask,fastapi,laravel,dotnet,qt,prisma,blank,blank&theme=dark)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,expressjs,django,flask,fastapi,laravel,dotnet,qt,prisma,blank,blank&theme=dark" />
+  </a>
+</p>
+
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
@@ -55,7 +61,12 @@ GO***
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
 ###### Network & Other
-![NETWORK](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank&theme=dark)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank,blank&theme=dark" />
+  </a>
+</p>
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white)
 ![NetLimiter](https://img.shields.io/badge/NetLimiter-CC0000?style=flat-square)
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-FF6600?style=flat-square)
