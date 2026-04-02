@@ -23,8 +23,6 @@ Currently not many repositories as i dont post on here much, will try to post mo
   
 ***HTML5 CSS3 JAVASCRIPT TYPESCRIPT TSX PYTHON PHP C C# C++ SQL GO***
 
-*SQL LOGO WAS NOT AVAILABLE USED MYSQL LOGO*
-
 </div>
 
 ---
