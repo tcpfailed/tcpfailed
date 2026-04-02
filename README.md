@@ -56,7 +56,7 @@ GO***
 ![Bashtop](https://img.shields.io/badge/Bashtop-1E1E1E?style=flat-square)
 
 ###### Frameworks & Libraries
-
+![SKILLS](https://skillicons.dev/icons?i=react,nextjs,tailwind,framer,trpc,expressjs,django,flask,fastapi,laravel,dotnet,gin,qt,prisma,sqlalchemy&theme=dark)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
