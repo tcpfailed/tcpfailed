@@ -18,6 +18,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 ***HTML5 CSS3 PYTHON JAVASCRIPT TYPESCRIPT TSX PHP C# C++ SQL GO***
 
 </div>
+
 ---
 
 ### Dev Stack
