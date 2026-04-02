@@ -51,7 +51,12 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 </div>
 
+<div align="center">
+  
 ###### Frameworks & Libraries
+
+</div?
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,expressjs,django,flask,fastapi,laravel,dotnet,qt,prisma,blank,blank&theme=dark" />
@@ -70,7 +75,12 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 </div>
 
+<div align="center">
+  
 ###### Network & Other
+
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blank,blank,blank,blank,blank,blank,grafana,prometheus,elasticsearch,blank,blank,blank,blank,blank,blank&theme=dark" />
